@@ -1,0 +1,25 @@
+{
+  "name": "lcd-digits-node-nancymi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nancymi/lcd-digits-node-nancymi.git"
+  },
+  "author": "nancy yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nancymi/lcd-digits-node-nancymi/issues"
+  },
+  "homepage": "https://github.com/nancymi/lcd-digits-node-nancymi#readme",
+  "dependencies": {
+    "lodash": "^4.6.1"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
